@@ -1,0 +1,1 @@
+export const API = "https://goal-backend-api-cteb.onrender.com/api";
